@@ -1,0 +1,8 @@
+php-phpimap (5.0.1) unstable; urgency=medium
+
+  * Initial Debian packaging of php-imap/php-imap
+  * Based on https://github.com/Vitexus/php-imap (fork of barbushin/php-imap)
+  * Provides PhpImap namespace with PSR-4 autoloader
+  * Installs to /usr/share/php/PhpImap/
+
+ -- Vítězslav Dvořák <info@vitexsoftware.cz>  Mon, 07 Apr 2026 21:00:00 +0200

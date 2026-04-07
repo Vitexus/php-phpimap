@@ -1,0 +1,3 @@
+src/PhpImap/*.php		usr/share/php/PhpImap/
+src/PhpImap/Exceptions/*.php	usr/share/php/PhpImap/Exceptions/
+debian/autoload.php		usr/share/php/PhpImap/

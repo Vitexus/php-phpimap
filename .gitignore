@@ -177,3 +177,8 @@ nbproject/
 
 # Visual Studio Code
 .vscode/
+debian/debhelper-build-stamp
+debian/files
+debian/php-phpimap/
+debian/.debhelper/
+debian/php-phpimap.substvars

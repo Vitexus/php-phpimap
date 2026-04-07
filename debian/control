@@ -1,0 +1,19 @@
+Source: php-phpimap
+Section: php
+Priority: optional
+Maintainer: "Vítězslav Dvořák" <info@vitexsoftware.cz>
+Build-Depends: debhelper (>=11~), pkg-php-tools
+Standards-Version: 4.1.4
+Homepage: https://github.com/Vitexus/php-imap
+
+Package: php-phpimap
+Architecture: all
+Depends: ${misc:Depends}, php-imap, php-mbstring, php-json, php-fileinfo
+Description: PHP IMAP - Manage mailboxes, filter/get/delete emails in PHP
+ PHP IMAP Mailbox is a powerful and open source library to connect to
+ a mailbox by POP3, IMAP and NNTP using the PHP IMAP extension.
+ This library allows you to fetch emails from your email server with
+ attachments and inline images, filter or sort by custom criteria,
+ mark emails as seen/unseen, delete emails and manage mailbox folders.
+ .
+ Provides the PhpImap namespace (PhpImap\Mailbox, PhpImap\IncomingMail, etc.)
