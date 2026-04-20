@@ -8,7 +8,7 @@ Homepage: https://github.com/Vitexus/php-imap
 
 Package: php-phpimap
 Architecture: all
-Depends: ${misc:Depends}, php-imap, php-mbstring, php-json, php-fileinfo
+Depends: composer, ${misc:Depends}, php-imap, php-mbstring, php-json, php-fileinfo
 Description: PHP IMAP - Manage mailboxes, filter/get/delete emails in PHP
  PHP IMAP Mailbox is a powerful and open source library to connect to
  a mailbox by POP3, IMAP and NNTP using the PHP IMAP extension.
