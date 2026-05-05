@@ -1,3 +1,5 @@
 src/PhpImap/*.php		usr/share/php/PhpImap/
 src/PhpImap/Exceptions/*.php	usr/share/php/PhpImap/Exceptions/
 debian/autoload.php		usr/share/php/PhpImap/
+php-phpimap.svg	usr/share/icons/hicolor/scalable/apps/
+io.github.vitexsoftware.php_phpimap.metainfo.xml	usr/share/metainfo/

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>io.github.vitexsoftware.php_phpimap</id>
+  <icon type="stock">php-phpimap</icon>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <name>php-phpimap</name>
+  <summary>PHP IMAP library for managing mailboxes</summary>
+  <description>
+    <p>
+      PHP IMAP Mailbox is a powerful and open source library to connect to a mailbox by POP3, IMAP and NNTP using the PHP IMAP extension. Allows fetching emails with attachments and inline images, filtering by custom criteria, marking emails as seen/unseen, deleting emails and managing mailbox folders.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/Vitexus/php-imap</url>
+  <url type="bugtracker">https://github.com/Vitexus/php-imap/issues</url>
+  <developer id="cz.vitexsoftware">
+    <name>VitexSoftware</name>
+  </developer>
+  <content_rating type="oars-1.1"/>
+</component>
